@@ -69,15 +69,15 @@ public class CD
     {
         if(getDurata() > a.getDurata())
         {
-            return getTitolo() + " dura di più di " + a.getTitolo();
+            return getDurata() + " dura di più di " + a.getDurata();
         }
         else if(getDurata() < a.getDurata())
         {
-            return getTitolo() + " dura di meno di " + a.getTitolo();
+            return getDurata() + " dura di meno di " + a.getDurata();
         }
         else
         {
-            return getTitolo() + a.getTitolo() + " sono stati prodotti lo stesso anno";
+            return getDurata() + a.getDurata() + " hanno la stessa durata";
         }
     }
 }

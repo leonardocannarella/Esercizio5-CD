@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=CD
-comment0.text=\n\ CD\ -\ Inserisci\ metadati\ del\ CD\ e\ restituisce\ altrettanti\n\ \n\ @author\ (Leonardo\ Cannarella)\ \n\ @version\ (1.0\ -\ 10/10/2019)\n
+comment0.text=\r\n\ CD\ -\ Inserisci\ metadati\ del\ CD\ e\ restituisce\ altrettanti\r\n\ \r\n\ @author\ (Leonardo\ Cannarella)\ \r\n\ @version\ (1.0\ -\ 10/10/2019)\r\n
 comment1.params=titolo\ autore\ numeroBrani\ durata
 comment1.target=CD(java.lang.String,\ java.lang.String,\ int,\ double)
 comment10.params=

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=LettoreCD
+comment0.text=\r\n\ Aggiungi\ qui\ una\ descrizione\ della\ classe\ LettoreCD\r\n\ \r\n\ @author\ (il\ tuo\ nome)\ \r\n\ @version\ (un\ numero\ di\ versione\ o\ una\ data)\r\n
+comment1.params=marca
+comment1.target=LettoreCD(java.lang.String)
+comment2.params=m
+comment2.target=void\ setMarca(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getMarca()
+comment4.params=disco
+comment4.target=void\ inserisci(CD)
+comment5.params=
+comment5.target=void\ estrai()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
